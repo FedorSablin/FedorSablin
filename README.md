@@ -25,7 +25,7 @@
 
 ### 🌐 *ИИ/ML*
 
-**OpenAI** (GPTs, [DALL-E](https://openai.com/dall-e), Whisper) | **Claude 3** | **Gemini** | **LLaMA** | **Hugging Face**  
+**OpenAI** (GPTs, DALL-E, Whisper) | **Claude 3** | **Gemini** | **LLaMA** | **Hugging Face**  
 **YandexGPT** | **LangChain** | **ElevenLabs** | *Fine-tuning (PyTorch)* | **Prompt Engineering**
 
 ### 💻 *Программирование и инфраструктура*
